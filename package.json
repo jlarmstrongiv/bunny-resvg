@@ -1,6 +1,6 @@
 {
   "name": "bunny-resvg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "type": "module",
   "description": "resvg for Edge Scripting for bunny.net 🐰",
